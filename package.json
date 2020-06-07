@@ -1,0 +1,24 @@
+{
+  "name": "easyCodeLessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    
+    "prettier": "prettier --write src/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nika0855/easyCodeLessons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nika0855/easyCodeLessons/issues"
+  },
+  "homepage": "https://github.com/nika0855/easyCodeLessons#readme",
+  "dependencies": {
+    "prettier": "^2.0.5"
+  }
+}
